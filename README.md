@@ -15,7 +15,7 @@ Replaces multiple pixels in a PNG image based on pixel coordinates.
 ### ASCII Text
 
 ```
-Midnight Mischief. Obsidian fur, a shadowy cloak, Eyes like embers, a gentle yoke. Paws so soft, a heart so light, This feline friend, a dark delight. Ebony whiskers twitch with glee, A velvet shadow, purring free. Onyx nose and charcoal toes, But sweetness from within it glows. In darkness draped, yet spirit bright, This cat brings joy, day and night. A sable coat, a playful soul, Proving dark can be oh so droll
+Midnight Mischief. Obsidian fur, a shadowy cloak, Eyes like embers, a gentle yoke. Paws so soft, a heart so light, This feline friend, a dark delight. Ebony whiskers twitch with glee, A velvet shadow, purring free. Onyx nose and charcoal toes, But sweetness from within it glows. In darkness draped, yet spirit bright, This cat brings joy, day and night. A sable coat, a playful soul, Proving dark can be oh so droll.
 ```
 
 ### Original Image
