@@ -30,5 +30,5 @@ Midnight Mischief. Obsidian fur, a shadowy cloak, Eyes like embers, a gentle yok
 
 - https://github.com/dotslashgabut/PNG-Pixel-Replacer-with-ASCII-Text-Input
 - https://github.com/dotslashgabut/Color-Code-Extractor
-- [PNG Pixel Replacer with ASCII Text Input](https://dotslashgabut.github.io/testcode/png-pixel-replacer-with-ascii-text-input.html)
-- [Color Code Extractor](https://dotslashgabut.github.io/testcode/color-code-extractor.html)
+- [Demo - PNG Pixel Replacer with ASCII Text Input](https://dotslashgabut.github.io/testcode/png-pixel-replacer-with-ascii-text-input.html)
+- [Demo - Color Code Extractor](https://dotslashgabut.github.io/testcode/color-code-extractor.html)
