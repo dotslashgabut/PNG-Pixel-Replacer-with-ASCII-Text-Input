@@ -24,7 +24,7 @@ Midnight Mischief. Obsidian fur, a shadowy cloak, Eyes like embers, a gentle yok
 
 ### Output Image _(Pixels Replaced)_
 
-![Converted image, the pixel has been replaced.](https://github.com/dotslashgabut/PNG-Pixel-Replacer-with-ASCII-Text-Input/blob/main/a-cat-pixels-replaced.png)
+![Converted image, the pixel has been replaced.](https://raw.githubusercontent.com/dotslashgabut/PNG-Pixel-Replacer-with-ASCII-Text-Input/main/a-cat-pixels-replaced.png)
 
 ### Links
 
