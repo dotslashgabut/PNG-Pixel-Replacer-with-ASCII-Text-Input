@@ -123,22 +123,15 @@
         }
 
         generateCoordinatesBtn.addEventListener('click', () => {
-          if (!image) return;
-          const count = parseInt(numCoordinates.value);
-          const coords = [];
-          const generatedCoords = new Set();
-
-          while (coords.length < count) {
-            const x = Math.floor(Math.random() * image.width);
-            const y = Math.floor(Math.random() * image.height);
-            const coordString = `${x}:${y}`;
-            if (!generatedCoords.has(coordString)) {
-              coords.push(coordString);
-              generatedCoords.add(coordString);
+            if (!image) return;
+            const count = parseInt(numCoordinates.value);
+            const coords = [];
+            for (let i = 0; i < count; i++) {
+                const x = Math.floor(Math.random() * image.width);
+                const y = Math.floor(Math.random() * image.height);
+                coords.push(`${x}:${y}`);
             }
-          }
-
-          coordinates.value = coords.join(',');
+            coordinates.value = coords.join(',');
         });
 
         generateColorsBtn.addEventListener('click', () => {
@@ -159,8 +152,6 @@
                 }, '').padEnd(6, '0');
             });
             hexColors.value = hexCodes.join(',');
-          const colorCount = hexCodes.length;
-          convertAsciiBtn.textContent = `Converted to ${colorCount} Color Codes. Try again.`; // Update button text
         });
 
         function checkDuplicateCoordinates(coordArray) {
